@@ -59,7 +59,7 @@
     "nps-utils": "^1.7.0",
     "opn": "^5.4.0",
     "plugin-error": "^1.0.1",
-    "style-loader": "^0.23.1",
+    "style-loader": "^1.0.0",
     "through2": "^2.0.3",
     "ts-jest": "^23.10.4",
     "ts-loader": "^5.2.1",
